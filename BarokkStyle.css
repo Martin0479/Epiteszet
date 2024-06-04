@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(255, 187, 0);
+    color: white;
+}
+
+.border {
+    border-radius: 15px;
+}
+
+p {
+    background-color: rgb(255, 115, 0);
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+button {
+    background-color: rgb(251, 255, 0);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}

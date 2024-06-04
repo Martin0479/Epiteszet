@@ -1,0 +1,25 @@
+body {
+    background-color: grey;
+    color: white;
+}
+
+.border {
+    border-radius: 15px;
+}
+
+p {
+    background-color: rgb(62, 62, 62);
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+button {
+    background-color: rgb(192, 192, 192);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
